@@ -10,8 +10,9 @@ Each folder contains several solutions to a task with comments.
 
 | Task | Description | Status |
 | :--- | :--- | :--- |
-| [Big O](./big_o/) | Algorithmic complexity: How to identify in a code | 🛠 In progress |
-| [Prime numbers](./prime_numbers/) | Comparison of algorithms: Trial Division, The Sieve of Eratosthenes | 🛠 In progress |
+| [Big O](./big_o/) | Algorithmic complexity: How to identify in a code | ✅ Done |
+| [Prime numbers](./prime_numbers/) | Comparison of algorithms: Trial Division, The Sieve of Eratosthenes | ✅ Done  |
+| [ML contest](./ml_contest/guard2026) | Banking Fraud Detection | ✅ Done |
 | Next task | Description of my next task (fill in later). | 🛠 In progress |
 
 ## 💡 Optimization Global Tips
