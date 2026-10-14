@@ -11,3 +11,6 @@ This board tracks my current learning path, architectural experiments, links to 
 *Completed milestones and successfully shipped micro-projects.*
 
 - [x] Set up Wiki repository structure.
+- [x] Prototype [BPMN diagram AI generator](https://github.com/tanyashipunova/vasotapy/wiki/Hackaton-AI-BPMN).
+- [x] Prototype [CLI application on Python](https://github.com/tanyashipunova/vasotapy/wiki/CLI-App-on-Python).
+- [x] Concept [AI cost calculator architecture](https://github.com/tanyashipunova/ai_agents_costs).
